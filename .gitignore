@@ -65,3 +65,5 @@ docs/_build/
 
 # Jupyter Files
 .ipynb_checkpoints/
+
+venv/
